@@ -1,0 +1,77 @@
+body {
+	background-color: slategrey;
+}
+
+.setWidth {
+	width: 500px;
+	margin: auto;
+}
+
+.banner {
+	height: 200px;
+	background-color: #2ecc71;
+	border-bottom: 5px solid #27ae60;
+}
+
+.bannerText {
+	color: white;
+	bottom: -155px;
+	position: relative;
+	left: 20px;
+	font-size: 25px
+}
+
+.navbar {
+	text-align: right;
+	background-color: #000A1A;
+	height: 40px;
+}
+
+.navbarText {
+	color: white;
+	padding: 0px 10px;
+	margin-top: 11px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+}
+
+.body {
+	background-color: #E6E6E6;
+}
+
+.bigTitle {
+	font-size: 17px;
+	margin-left: 15px;
+	margin-top: 0;
+	padding-top: 31px;
+}
+
+.paragraph {
+	margin: 0 40px;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.topMargin {
+	margin-top: 12px;
+}
+
+.smallTitle {
+	border-bottom: 1px solid grey;
+	margin: 0px 15px;
+}
+
+.smallTitleText {
+	font-size: 14px;
+	margin-left: 15px;
+	margin-top: 31px;
+	margin-bottom: 5px;
+}
+
+
+
+
+
+
+
